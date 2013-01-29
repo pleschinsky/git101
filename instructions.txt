@@ -1,0 +1,5 @@
+1 Getting started with github
+2
+3 Sign up for a free open source account on github.com
+4 Configure your ssh access
+5 Create a local repository and push it to github
