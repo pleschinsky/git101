@@ -5,5 +5,3 @@
 5 Create a local repository
 5 Create a remote entry that points at the github repository that you want to push to 
 
-
-
